@@ -8,4 +8,11 @@ instala y configura `minikube` y `kubectl` para poder realizar el resto del curs
 Para superar el desafio deberás entregar en un unico repositorio de github en formato [markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax):
 
 1. Imagen con la salida de `minikube status` (**imagen1.jpg**).
+### print screen
+![img](challenge 01.png)
+
+-----------------------------
+
 2. Imagen con la salida de `kubectl get nodes -o wide` (**imagen2.jpg**).
+### print screen
+![img](challenge 01.01.png)
