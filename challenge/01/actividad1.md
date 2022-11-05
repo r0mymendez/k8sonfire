@@ -9,10 +9,10 @@ Para superar el desafio deberás entregar en un unico repositorio de github en f
 
 1. Imagen con la salida de `minikube status` (**imagen1.jpg**).
 ### print screen
-![img](challenge 01.png)
+![img](challenge.01.png)
 
 -----------------------------
 
 2. Imagen con la salida de `kubectl get nodes -o wide` (**imagen2.jpg**).
 ### print screen
-![img](challenge 01.01.png)
+![img](challenge.01.01.png)
